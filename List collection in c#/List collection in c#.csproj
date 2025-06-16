@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>List_collection_in_c_.RemoveCity_AtGivenIndex.Program</StartupObject>
+    <StartupObject>List_collection_in_c_.FindFirstAndLast_EvenNumberIndex.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,7 +51,9 @@
     <Compile Include="Count_Total_Courses.cs" />
     <Compile Include="FilterFlavours_ByStartOrEnd.cs" />
     <Compile Include="FindCarBrands_ByLetter using find and findall.cs" />
+    <Compile Include="FindFirstAndLast_EvenNumberIndex.cs" />
     <Compile Include="FindIndex_OfMatchingCity.cs" />
+    <Compile Include="FindLastIndex_RemoveAll_AppleTask.cs" />
     <Compile Include="ListOperations_Count_Clear_IndexOf.cs" />
     <Compile Include="ManageStudentMarks_ListOperations.cs" />
     <Compile Include="Program.cs" />
