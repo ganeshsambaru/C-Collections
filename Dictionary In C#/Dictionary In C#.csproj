@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Dictionary_In_C_.Manage_Movie_Tickets_Using_Dictionary_Tuple.Program</StartupObject>
+    <StartupObject>Dictionary_In_C_.Student_Management_Final.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,13 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Check_Product_Stock_With_TryGetValue.cs" />
     <Compile Include="CreateStudentDictionary.cs" />
     <Compile Include="Employee_Record_Management.cs" />
     <Compile Include="Manage Library Book Inventory By Using Tuple.cs" />
     <Compile Include="Manage_Movie_Tickets_Using_Dictionary_Tuple.cs" />
+    <Compile Include="Manage_Student_Profiles_With_Class.cs" />
     <Compile Include="Product_Inventory_Management.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student_Management_Final.cs" />
+    <Compile Include="Update_Student_Marks_Using_TryGetValue.cs" />
+    <Compile Include="Use_TryGetValue_To_Check_Product.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
