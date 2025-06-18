@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List collection in c#", "Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary In C#", "Dictionary In C#\Dictionary In C#.csproj", "{E3925B4F-80CA-49BC-BF6C-AF18EFC703F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue In C#", "Queue In C#\Queue In C#.csproj", "{CE298D2B-3604-4D7B-9D31-17F29C4AB6DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E3925B4F-80CA-49BC-BF6C-AF18EFC703F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3925B4F-80CA-49BC-BF6C-AF18EFC703F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3925B4F-80CA-49BC-BF6C-AF18EFC703F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE298D2B-3604-4D7B-9D31-17F29C4AB6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE298D2B-3604-4D7B-9D31-17F29C4AB6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE298D2B-3604-4D7B-9D31-17F29C4AB6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE298D2B-3604-4D7B-9D31-17F29C4AB6DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
