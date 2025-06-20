@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary In C#", "Diction
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue In C#", "Queue In C#\Queue In C#.csproj", "{CE298D2B-3604-4D7B-9D31-17F29C4AB6DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack In C#", "Stack In C#\Stack In C#.csproj", "{8723F2C0-9DE6-4702-B64C-BDC0A4063B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet In C#", "HashSet In C#\HashSet In C#.csproj", "{BE3B73E1-32DB-484B-9D28-A5F05081815E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{CE298D2B-3604-4D7B-9D31-17F29C4AB6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE298D2B-3604-4D7B-9D31-17F29C4AB6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE298D2B-3604-4D7B-9D31-17F29C4AB6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8723F2C0-9DE6-4702-B64C-BDC0A4063B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8723F2C0-9DE6-4702-B64C-BDC0A4063B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8723F2C0-9DE6-4702-B64C-BDC0A4063B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8723F2C0-9DE6-4702-B64C-BDC0A4063B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3B73E1-32DB-484B-9D28-A5F05081815E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3B73E1-32DB-484B-9D28-A5F05081815E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3B73E1-32DB-484B-9D28-A5F05081815E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3B73E1-32DB-484B-9D28-A5F05081815E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
